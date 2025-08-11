@@ -1,7 +1,7 @@
 ## Hi there!!
 
-    <h1>Enderson David Ariza S.</h1>
-    <h2>Tecnólogo Análisis y Desarrollo de Software</h2>
+ <h1>Enderson David Ariza S.</h1>
+ <h2>Tecnólogo Análisis y Desarrollo de Software</h2>
 
 <!--
 **EndersonAs/EndersonAs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
