@@ -6,7 +6,7 @@
 
 <ul>
 <li>🔨  Actualmente estoy trabajando en mi sitio web de portafolio.</li>  
-<li>😺  Actualmente estoy realizando un Bootcamp de Análisis de Datos.</li> 
+<li>😺  Tambien estoy realizando un Bootcamp de Análisis de Datos.</li> 
 <li>🔬  Aprendiendo del mundo multidisciplinario de la ciencia de datos.</li>
 </ul> 
        
